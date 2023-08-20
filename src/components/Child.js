@@ -7,13 +7,13 @@ const Child=({selectedOption,setSelectedOption})=>{
 
   const click1=()=>{
 
-    setSelectedOption("option1")
+    setSelectedOption("option 1")
 
   }
 
   const click2=()=>{
 
-    setSelectedOption("option2")
+    setSelectedOption("option 2")
 
   }
 
