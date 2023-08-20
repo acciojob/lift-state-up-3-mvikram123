@@ -24,11 +24,11 @@ const Child=({selectedOption,setSelectedOption})=>{
         <div className="child">
 
             <div className="child1">
-                <h1>Child Component1</h1>
+                <h3>Child Component1</h3>
             <button onClick={click1}>Option 1</button>
             </div>
             <div className="child2">
-            <h1>Child Component2</h1>
+            <h3>Child Component2</h3>
             <button onClick={click2}>Option 2</button>
                 
             </div>
